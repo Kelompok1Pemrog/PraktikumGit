@@ -1,0 +1,15 @@
+E:\PraktikumGit\NewRepoProject\bin\Debug\net6.0\NewRepoProject.exe
+E:\PraktikumGit\NewRepoProject\bin\Debug\net6.0\NewRepoProject.deps.json
+E:\PraktikumGit\NewRepoProject\bin\Debug\net6.0\NewRepoProject.runtimeconfig.json
+E:\PraktikumGit\NewRepoProject\bin\Debug\net6.0\NewRepoProject.dll
+E:\PraktikumGit\NewRepoProject\bin\Debug\net6.0\NewRepoProject.pdb
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.csproj.AssemblyReference.cache
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.AssemblyInfoInputs.cache
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.AssemblyInfo.cs
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.csproj.CoreCompileInputs.cache
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.dll
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\refint\NewRepoProject.dll
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.pdb
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\NewRepoProject.genruntimeconfig.cache
+E:\PraktikumGit\NewRepoProject\obj\Debug\net6.0\ref\NewRepoProject.dll
